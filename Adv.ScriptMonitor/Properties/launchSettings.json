@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Adv.ScriptMonitor": {
+      "commandName": "Project",
+      "commandLineArgs": "-i 20"
+    }
+  }
+}
